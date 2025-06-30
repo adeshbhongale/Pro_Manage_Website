@@ -48,5 +48,5 @@ _Description: Edit user details such as name, email, and password for personaliz
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Token)
 
-If you have any questions, or feedback, or need support, please contact me directly at rohitjaiswal8898@gmail.com <br>
+If you have any questions, or feedback, or need support, please contact me directly at adeshbhongale03@gmail.com <br>
 Thank you for checking out Pro Manage! I hope it's useful to you.
