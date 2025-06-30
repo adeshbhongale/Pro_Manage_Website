@@ -7,32 +7,39 @@
 # Essential Features of Pro Manage
 
 ## 1. User Authentication
+
 ![User Authentication](https://github.com/user-attachments/assets/1e756d06-65cf-4fde-8cee-c5156725f617)
-*Description: Secure user login and registration system ensures only authenticated users can access the platform.*
+_Description: Secure user login and registration system ensures only authenticated users can access the platform._
 
 ## 2. Task Creation with Priority
+
 ![Task Creation](https://github.com/user-attachments/assets/0f8de0a9-246a-4325-834e-68685d23ce7e)<br>
-*Description: Create tasks with customizable priority levels (High, Medium, Low) to manage workload effectively.*
+_Description: Create tasks with customizable priority levels (High, Medium, Low) to manage workload effectively._
 
 ## 3. Task Assignment
+
 ![Task Assignment](https://github.com/user-attachments/assets/f5bedbc5-56ac-42f9-93c5-b9efce01cee7)<br>
-*Description: Assign tasks to other registered users in the system to facilitate collaboration.*
+_Description: Assign tasks to other registered users in the system to facilitate collaboration._
 
 ## 4. Assign board to another user
+
 ![Add people](https://github.com/user-attachments/assets/3e719824-f71c-4bb4-9dc9-392643c0f288)<br>
-*Description: Assign all task present in board to another user using add people feature.*
+_Description: Assign all task present in board to another user using add people feature._
 
 ## 5. Task Dashboard with Sections
+
 ![Dashboard](https://github.com/user-attachments/assets/586e3265-abba-4dd0-9e92-fd5a4c9d34f0)
-*Description: An intuitive dashboard divided into four sections (Backlog, To-do, In Progress, Done) allows users to move tasks seamlessly across states.*
+_Description: An intuitive dashboard divided into four sections (Backlog, To-do, In Progress, Done) allows users to move tasks seamlessly across states._
 
 ## 6. Task Analytics
+
 ![Task Analytics](https://github.com/user-attachments/assets/edccbf6b-c2b5-45d0-a0f4-b8d9c2973f54)
-*Description: Visualize analytics for tasks created and tasks assigned, offering insights into task distribution and progress.*
+_Description: Visualize analytics for tasks created and tasks assigned, offering insights into task distribution and progress._
 
 ## 7. Profile Management
+
 ![Profile Management](https://github.com/user-attachments/assets/5275b502-1f4c-485d-9866-ff40377c933a)
-*Description: Edit user details such as name, email, and password for personalized account management.*
+_Description: Edit user details such as name, email, and password for personalized account management._
 
 ## Tech Stack
 
@@ -43,4 +50,3 @@
 
 If you have any questions, or feedback, or need support, please contact me directly at rohitjaiswal8898@gmail.com <br>
 Thank you for checking out Pro Manage! I hope it's useful to you.
-
